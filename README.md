@@ -1,5 +1,9 @@
 # ProjetoSmartFitAngular
 
+<img src="https://raw.githubusercontent.com/AndreTipolt/Project-SmartFit-Angular/main/images_for_github/Home.png" alt="" style=" display: block; margin-bottom: 40px;">
+
+<img src="https://raw.githubusercontent.com/AndreTipolt/Project-SmartFit-Angular/main/images_for_github/ListUnits.png" alt="" style=" display: block; margin-bottom: 40px;">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
